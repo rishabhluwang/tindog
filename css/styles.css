@@ -13,7 +13,7 @@ button {
 }
 p {
   padding: 0 10%;
-  color: #8f8f8f;
+  color: #000;
 }
 
 /* containers */
@@ -154,6 +154,9 @@ testimonial-text{
 .footer-text {
   color: #8f8f8f;
   font-size: 0.8rem;
+}
+.social-media-icon{
+  padding: 3% 2%;
 }
 
 @media (max-width: 1028px) {
